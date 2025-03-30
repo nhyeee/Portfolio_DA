@@ -15,4 +15,6 @@ Mô hình Autoencoder được sử dụng để phát hiện bất thường, s
 🔹 **Logistic Regression** (Explainability – scikit-learn)  
 🔹 **Confusion Matrix & F1-score**  
 
----
+## 📂 Dữ liệu
+Dữ liệu được lấy từ Kaggle:  
+📥 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
